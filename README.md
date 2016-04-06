@@ -1,2 +1,2 @@
 # CalculatorJS
-This is a HMLT, CSS and JS project with simple features. 
+This is a HTML5, CSS and JS project with simple features. 
